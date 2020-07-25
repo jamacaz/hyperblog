@@ -1,3 +1,7 @@
 esta es un una historia 
 esta es la segunda lína de comando 
 y esta es la tercea línea de comando 
+
+esta es una cuarta línea escrita
+hubicada desde la línea numero 5
+debes ecoerdadr queen codigo no se deben colocar tildes 
