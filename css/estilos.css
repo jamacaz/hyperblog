@@ -9,4 +9,19 @@ body {
     text-align: left;
     border: 1px red solid;
     margin: auto;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
+}
+
+.header {
+    background-color: slateblue;
+    color: white;
+    margin: auto;
+    display: block;
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    text-decoration: seagreen;
+    font-size: 60px;
+    border: solid 1px red;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0,0.75);
 }
