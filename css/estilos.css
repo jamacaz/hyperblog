@@ -10,3 +10,14 @@ body {
     border: 1px red solid;
     margin: auto;
 }
+
+.header {
+    margin: auto;
+    display: block;
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    text-decoration: seagreen;
+    font-size: 60px;
+    border: solid 1px red;
+}
